@@ -1,5 +1,4 @@
 # NeedServices
-Features:
 Identify Modifiable Services to include Weak Service Permissions, Weak Service Binary Permissions, potential DLL hijacks, Registry keys, and unquoted service paths.
 Availability to Export results into CSV.
 
