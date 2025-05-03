@@ -13,6 +13,7 @@ Identify Modifiable Services to include
 - Can be run in Medium\High Integrity
 - Pre-canned Exploit Examples
 - Export Results to CSV
+- Two additional powershell scripts to create vulnerable services as proofs of concept and to clean them up*
 
 ## Installation & Execution
 
